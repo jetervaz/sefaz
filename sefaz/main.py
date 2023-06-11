@@ -7,7 +7,7 @@ from lxml import etree
 
 from requests import Session
 
-from sefaz.settings import (
+from settings import (
     CERTIFICATE_FILE,
     USER_CPF,
     WSDL_URL,
